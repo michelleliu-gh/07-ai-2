@@ -1,0 +1,24 @@
+# Quarto cache and build directories
+_quarto/
+_quarto-cache/
+_cache/
+.quarto/
+
+# Quarto output (but not .html files)
+_output/
+_freeze/
+
+# R-specific
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
